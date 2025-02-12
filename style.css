@@ -92,21 +92,21 @@ p{
 	#enlace1 {
 	position: absolute;
 	float: center;
-	left: 100px;
+	left: 300px;
 	top: 10px;
 	}
 
 	#enlace2 {
 	position: absolute;
 	float: center;
-	left: 100px;
+	left: 300px;
 	top: 45px;
 	}
 
 	#enlace3{
 	position: absolute;
 	float: center;
-	left: 100px;
+	left: 300px;
 	top: 80px;
 	}
 }
