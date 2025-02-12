@@ -82,3 +82,10 @@ p{
 	position: relative;
 	left: 1300px;
 }
+
+/*Media query para moviles*/
+@Media(max-width: 780px) {
+	body {
+		background-color: blue;
+	}
+}
