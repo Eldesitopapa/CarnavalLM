@@ -1,0 +1,84 @@
+p{
+	font-size: 50px;
+}
+.menu {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: yellow;
+	}
+
+#logo {
+	width: 200px;
+	height: 100px;
+	margin-right: 5px;
+}
+
+#yt {
+	position: absolute;
+	top: 7px;
+	right: 50px;
+	width: 100px;
+	height: 80px;
+}
+
+#enlace1 {
+	position: absolute;
+	float: center;
+	left: 500px;
+	top: 45px;
+}
+
+#enlace2 {
+	position: absolute;
+	float: center;
+	left: 800px;
+	top: 45px;
+}
+
+#enlace3{
+	position: absolute;
+	float: center;
+	left: 1300px;
+	top: 45px;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background-color: grey;
+}
+
+#logo2 {
+	width: 200px;
+	height: 100px;
+	margin-right: 5px;
+}
+
+#enlace01 {
+	position: absolute;
+	float: center;
+	left: 800px;
+}
+
+#enlace02 {
+	position: absolute;
+	float: center;
+	left: 800px;
+	bottom: 47px;
+}
+
+#enlace03{
+	position: absolute;
+	float: center;
+	left: 800px;
+	bottom: 10px;
+}
+
+#form {
+	position: relative;
+	left: 1300px;
+}
