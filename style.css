@@ -84,7 +84,7 @@ p{
 }
 
 /*Media query para moviles*/
-@Media(max-width: 684px) {
+@Media(max-width: 780px) {
 	body {
 		background-color: blue;
 	}
