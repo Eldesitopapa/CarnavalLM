@@ -88,4 +88,25 @@ p{
 	body {
 		background-color: blue;
 	}
+
+		#enlace1 {
+	position: absolute;
+	float: center;
+	left: 100px;
+	top: 45px;
+	}
+
+#enlace2 {
+	position: absolute;
+	float: center;
+	left: 300px;
+	top: 45px;
+	}
+
+#enlace3{
+	position: absolute;
+	float: center;
+	left: 1300px;
+	top: 45px;
+	}
 }
